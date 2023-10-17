@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### :fire: My Stats : 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=func0der&hide_current_streak=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=func0der&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=func0der&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **func0der/func0der** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
