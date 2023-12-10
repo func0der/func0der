@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### :fire: My Stats : 
+### 🔥 My Stats 🔥
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=func0der&hide_current_streak=true)](https://git.io/streak-stats)
 
